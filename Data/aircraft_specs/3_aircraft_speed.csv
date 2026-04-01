@@ -1,0 +1,55 @@
+﻿name,performance_approach_speed_kmh,performance_approach_speed_kt,performance_max_cruise_speed_kmh,performance_max_cruise_speed_kt
+Airbus A300,243.0,131.0,896.0,484.0
+Airbus A310,257.0,139.0,893.0,482.0
+Airbus A319,,,952.0,514.0
+Airbus A320,254.0,137.0,952.0,514.0
+Airbus A321,,,1004.0,542.0
+Airbus A330,,,870.0,470.0
+Airbus A340,,,870.0,470.0
+Airbus A350 XWB,287.0,155.0,945.0,510.0
+Airbus A380,250.0,135.0,1087.0,587.0
+Boeing 737,,,876.0,473.0
+Boeing 747,270.0,146.0,933.0,504.0
+Boeing 757,259.0,140.0,919.0,496.0
+Boeing 767,259.0,140.0,900.0,486.0
+Boeing 777,276.0,149.0,945.0,510.0
+Boeing 787 Dreamliner,,,945.0,510.0
+Aérospatiale/BAC Concorde,306.0,165.0,2330.0,1258.0
+McDonnell Douglas DC-10,,,,
+Convair 880,257.0,139.0,991.0,535.0
+Lockheed L-188 Electra,222.0,120.0,648.0,350.0
+Fokker 50 / 60,180.0,97.0,530.0,286.0
+McDonnell Douglas MD-80,259.0,140.0,898.0,485.0
+McDonnell Douglas MD-90,256.0,138.0,937.0,506.0
+Airbus A220,,,828.0,447.0
+Fokker 70 / 100,222.0,120.0,845.0,456.0
+McDonnell Douglas MD-11,278.0,150.0,961.0,519.0
+Airbus A318,241.0,130.0,974.0,526.0
+Bombardier CRJ-700,,,876.0,473.0
+Bombardier CRJ-900,,,880.0,475.0
+Bombardier CRJ-1000,233.0,126.0,878.0,474.0
+Convair 990,169.0,91.0,1000.0,540.0
+Dornier Do-328,213.0,115.0,750.0,405.0
+Douglas DC-8,,,959.0,518.0
+Embraer EMB-120 Brasilia,,,583.0,315.0
+Embraer ERJ-145,250.0,135.0,839.0,453.0
+Embraer ERJ-170,241.0,130.0,889.0,480.0
+Embraer ERJ-190,,,889.0,480.0
+Saab 340,165.0,89.0,524.0,283.0
+Saab 2000,152.0,82.0,685.0,370.0
+BAC Vickers VC-10,278.0,150.0,930.0,502.0
+Hawker Siddeley HS-121 Trident,,,972.0,525.0
+Vickers Vanguard,,,852.0,460.0
+Boeing 717,257.0,139.0,917.0,495.0
+Short 330,143.0,77.0,296.0,160.0
+COMAC ARJ21,259.0,140.0,870.0,470.0
+COMAC C919,250.0,135.0,963.0,520.0
+Canadair CL-44,,,667.0,360.0
+Bristol 175 Britannia,,,639.0,345.0
+Lockheed L-1011 TriStar,269.0,145.0,954.0,515.0
+De Havilland Canada DHC-8 Dash 8,,,667.0,360.0
+British Aerospace BAe 146 / Avro RJ,232.0,125.0,767.0,414.0
+McDonnell Douglas DC-9,235.0,127.0,898.0,485.0
+Bombardier BD-700 Global,,,950.0,513.0
+ATR 42 / 72,,,319.0,172.0
+British Aerospace BAe ATP,194.0,105.0,496.0,268.0

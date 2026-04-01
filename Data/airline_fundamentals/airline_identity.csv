@@ -1,0 +1,28 @@
+﻿airline_name,ticker,currency,exchange
+Delta Air Lines,DAL,USD,NYQ
+Air Canada,AC.TO,CAD,TOR
+Lufthansa,LHA.DE,EUR,GER
+Turkish Airlines,THYAO.IS,TRY,IST
+Finnair,FIA1S.HE,EUR,HEL
+Air France,AF.PA,EUR,PAR
+KLM Royal Dutch Airlines,AF.PA,EUR,PAR
+British Airways,IAG.L,GBp,LSE
+Iberia,IAG.L,GBp,LSE
+Vueling,IAG.L,GBp,LSE
+Aegean Airlines,AEGN.AT,EUR,ATH
+Qantas Airways,QAN.AX,AUD,ASX
+Air New Zealand,AIR.NZ,NZD,NZE
+ANA All Nippon Airways,9202.T,JPY,JPX
+Japan Airlines,9201.T,JPY,JPX
+Korean Air,003490.KS,KRW,KSC
+Singapore Airlines,C6L.SI,SGD,SES
+Cathay Pacific Airways,0293.HK,HKD,HKG
+China Southern Airlines,1055.HK,HKD,HKG
+AirAsia,5099.KL,MYR,KLS
+IndiGo,INDIGO.NS,INR,NSI
+China Airlines,2610.TW,TWD,TAI
+EVA Air,2618.TW,TWD,TAI
+STARLUX Airlines,2646.TW,TWD,TAI
+LATAM Airlines,LTM.SN,CLP,SGO
+Garuda Indonesia,GIAA.JK,IDR,JKT
+Air Astana,AIRA.IL,USD,IOB

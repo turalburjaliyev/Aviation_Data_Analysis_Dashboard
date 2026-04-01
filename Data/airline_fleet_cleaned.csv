@@ -1,0 +1,614 @@
+﻿airline_name,aircraft_type,in_service,parked,total_current,future,historic,total_all_time,avg_age_numeric
+Qatar Airways,Airbus A300,0,0,0,0,10,10,
+Qatar Airways,Airbus A310,0,0,0,0,2,2,
+Qatar Airways,Airbus A319,0,0,0,0,3,3,
+Qatar Airways,Airbus A320,27,0,27,0,18,45,13.6
+Qatar Airways,Airbus A321,6,0,6,0,12,18,0.4
+Qatar Airways,Airbus A330,13,2,15,1,30,46,17.0
+Qatar Airways,Airbus A340,0,0,0,0,4,4,
+Qatar Airways,Airbus A350 XWB,60,2,62,2,7,71,7.3
+Qatar Airways,Airbus A380,7,1,8,0,2,10,10.2
+Qatar Airways,Boeing 737,0,0,0,0,10,10,
+Qatar Airways,Boeing 747,0,0,0,0,5,5,
+Qatar Airways,Boeing 757,0,0,0,0,1,1,
+Qatar Airways,Boeing 767,0,0,0,0,1,1,
+Qatar Airways,Boeing 777,92,1,93,10,2,105,11.6
+Qatar Airways,Boeing 787 Dreamliner,57,1,58,4,0,62,8.1
+Singapore Airlines,Airbus A300,0,0,0,0,8,8,
+Singapore Airlines,Airbus A310,0,0,0,0,23,23,
+Singapore Airlines,Airbus A330,0,0,0,0,34,34,
+Singapore Airlines,Airbus A340,0,0,0,0,22,22,
+Singapore Airlines,Airbus A350 XWB,63,2,65,1,0,66,6.9
+Singapore Airlines,Airbus A380,10,2,12,0,12,24,12.1
+Singapore Airlines,Aérospatiale/BAC Concorde,0,0,0,0,1,1,
+Singapore Airlines,Boeing 737,21,0,21,1,19,41,5.2
+Singapore Airlines,Boeing 747,6,1,7,0,87,94,22.3
+Singapore Airlines,Boeing 757,0,0,0,0,4,4,
+Singapore Airlines,Boeing 777,25,2,27,10,63,100,13.4
+Singapore Airlines,Boeing 787 Dreamliner,27,1,28,0,0,28,5.2
+Singapore Airlines,McDonnell Douglas DC-10,0,0,0,0,8,8,
+Cathay Pacific Airways,Airbus A320,0,0,0,0,3,3,
+Cathay Pacific Airways,Airbus A321,16,0,16,2,5,23,3.3
+Cathay Pacific Airways,Airbus A330,42,1,43,0,17,60,17.5
+Cathay Pacific Airways,Airbus A340,0,0,0,0,25,25,
+Cathay Pacific Airways,Airbus A350 XWB,46,2,48,0,0,48,7.4
+Cathay Pacific Airways,Boeing 747,19,1,20,0,64,84,14.4
+Cathay Pacific Airways,Boeing 777,50,2,52,1,23,76,17.0
+Cathay Pacific Airways,Bristol 175 Britannia,0,0,0,0,3,3,
+Cathay Pacific Airways,Convair 880,0,0,0,0,9,9,
+Cathay Pacific Airways,Lockheed L-1011 TriStar,0,0,0,0,19,19,
+Cathay Pacific Airways,Lockheed L-188 Electra,0,0,0,0,2,2,
+Emirates,Airbus A300,0,0,0,0,7,7,
+Emirates,Airbus A310,0,0,0,0,13,13,
+Emirates,Airbus A319,0,1,1,0,0,1,14.5
+Emirates,Airbus A330,0,0,0,0,29,29,
+Emirates,Airbus A340,0,0,0,0,18,18,
+Emirates,Airbus A350 XWB,16,0,16,10,0,26,0.8
+Emirates,Airbus A380,96,20,116,0,7,123,11.1
+Emirates,Boeing 737,0,0,0,0,1,1,
+Emirates,Boeing 747,0,0,0,0,6,6,
+Emirates,Boeing 777,135,5,140,20,57,217,12.5
+ANA All Nippon Airways,Airbus A320,11,0,11,0,36,47,7.6
+ANA All Nippon Airways,Airbus A321,21,5,26,0,7,33,6.7
+ANA All Nippon Airways,Airbus A380,3,0,3,0,0,3,7.0
+ANA All Nippon Airways,Boeing 737,37,2,39,0,67,106,13.1
+ANA All Nippon Airways,Boeing 747,0,0,0,0,46,46,
+ANA All Nippon Airways,Boeing 767,21,0,21,0,78,99,19.7
+ANA All Nippon Airways,Boeing 777,26,2,28,3,37,68,14.3
+ANA All Nippon Airways,Boeing 787 Dreamliner,84,3,87,4,3,94,9.3
+ANA All Nippon Airways,De Havilland Canada DHC-8 Dash 8,23,1,24,7,6,37,17.3
+ANA All Nippon Airways,Fokker 50 / 60,0,0,0,0,4,4,
+ANA All Nippon Airways,Lockheed L-1011 TriStar,0,0,0,0,21,21,
+Turkish Airlines,Airbus A300,0,0,0,0,3,3,
+Turkish Airlines,Airbus A310,0,0,0,0,19,19,
+Turkish Airlines,Airbus A319,6,0,6,0,8,14,14.8
+Turkish Airlines,Airbus A320,20,1,21,0,34,55,15.3
+Turkish Airlines,Airbus A321,118,16,134,5,10,149,8.7
+Turkish Airlines,Airbus A330,47,11,58,0,20,78,13.3
+Turkish Airlines,Airbus A340,0,0,0,0,9,9,
+Turkish Airlines,Airbus A350 XWB,33,0,33,2,0,35,2.6
+Turkish Airlines,Boeing 737,75,5,80,0,89,169,10.2
+Turkish Airlines,Boeing 777,45,3,48,0,6,54,10.8
+Turkish Airlines,Boeing 787 Dreamliner,24,2,26,3,0,29,4.6
+Turkish Airlines,British Aerospace BAe 146 / Avro RJ,0,0,0,0,14,14,
+Turkish Airlines,De Havilland Canada DHC-7 Dash 7,0,0,0,0,3,3,
+Turkish Airlines,McDonnell Douglas DC-9,0,0,0,0,11,11,
+Turkish Airlines,McDonnell Douglas DC-10,0,0,0,0,4,4,
+Turkish Airlines,McDonnell Douglas MD-80,0,0,0,0,3,3,
+Turkish Airlines,McDonnell Douglas MD-90,0,0,0,0,2,2,
+Korean Air,Airbus A220,9,1,10,0,0,10,7.8
+Korean Air,Airbus A300,0,0,0,0,40,40,
+Korean Air,Airbus A321,19,0,19,1,0,20,1.9
+Korean Air,Airbus A330,21,2,23,0,8,31,18.8
+Korean Air,Airbus A350 XWB,2,0,2,1,0,3,1.2
+Korean Air,Airbus A380,5,1,6,0,4,10,13.1
+Korean Air,Boeing 737,24,0,24,0,34,58,15.1
+Korean Air,Boeing 747,13,2,15,0,70,85,13.6
+Korean Air,Boeing 777,41,2,43,0,19,62,12.9
+Korean Air,Boeing 787 Dreamliner,33,0,33,5,0,38,5.0
+Korean Air,Bombardier BD-700 Global,1,0,1,0,0,1,16.1
+Korean Air,Fokker 70 / 100,0,0,0,0,12,12,
+Korean Air,McDonnell Douglas DC-10,0,0,0,0,5,5,
+Korean Air,McDonnell Douglas MD-11,0,0,0,0,5,5,
+Korean Air,McDonnell Douglas MD-80,0,0,0,0,16,16,
+Air France,ATR 42 / 72,0,0,0,0,29,29,
+Air France,Airbus A220,42,12,54,0,0,54,2.3
+Air France,Airbus A300,0,0,0,0,25,25,
+Air France,Airbus A310,0,0,0,0,11,11,
+Air France,Airbus A318,4,0,4,0,14,18,19.4
+Air France,Airbus A319,1,1,2,0,47,49,23.6
+Air France,Airbus A320,34,2,36,0,76,112,16.4
+Air France,Airbus A321,10,2,12,0,18,30,21.1
+Air France,Airbus A330,5,3,8,0,8,16,22.9
+Air France,Airbus A340,0,0,0,0,30,30,
+Air France,Airbus A350 XWB,38,3,41,2,0,43,3.2
+Air France,Airbus A380,0,0,0,0,10,10,
+Air France,Aérospatiale/BAC Concorde,0,0,0,0,7,7,
+Air France,Boeing 737,0,0,0,0,63,63,
+Air France,Boeing 747,0,0,0,0,73,73,
+Air France,Boeing 767,0,0,0,0,9,9,
+Air France,Boeing 777,56,7,63,0,8,71,19.8
+Air France,Boeing 787 Dreamliner,9,1,10,0,0,10,7.8
+Air France,Bombardier CRJ-100 Series,0,0,0,0,25,25,
+Air France,Bombardier CRJ-700,0,0,0,0,15,15,
+Air France,Bombardier CRJ-900,0,0,0,0,2,2,
+Air France,Bombardier CRJ-1000,0,0,0,0,12,12,
+Air France,Bristol 175 Britannia,0,0,0,0,1,1,
+Air France,British Aerospace BAe 146 / Avro RJ,0,0,0,0,48,48,
+Air France,Convair 990,0,0,0,0,1,1,
+Air France,De Havilland Canada DHC-7 Dash 7,0,0,0,0,2,2,
+Air France,Dornier Do-328,0,0,0,0,5,5,
+Air France,Douglas DC-8,0,0,0,0,2,2,
+Air France,Embraer EMB-120 Brasilia,0,0,0,0,19,19,
+Air France,Embraer ERJ-145,0,0,0,0,37,37,
+Air France,Embraer ERJ-170,0,0,0,0,15,15,
+Air France,Embraer ERJ-190,0,0,0,0,10,10,
+Air France,Fokker 70 / 100,0,0,0,0,24,24,
+Air France,Lockheed L-1011 TriStar,0,0,0,0,1,1,
+Air France,McDonnell Douglas DC-10,0,0,0,0,5,5,
+Air France,Saab 340,0,0,0,0,5,5,
+Air France,Saab 2000,0,0,0,0,7,7,
+Air France,VFW-Fokker VFW 614,0,0,0,0,3,3,
+KLM Royal Dutch Airlines,Airbus A310,0,0,0,0,11,11,
+KLM Royal Dutch Airlines,Airbus A321,12,0,12,9,0,21,0.9
+KLM Royal Dutch Airlines,Airbus A330,10,1,11,0,6,17,17.0
+KLM Royal Dutch Airlines,Airbus A350 XWB,0,0,0,2,0,2,
+KLM Royal Dutch Airlines,BAC 1-11,0,0,0,0,1,1,
+KLM Royal Dutch Airlines,Boeing 737,38,3,41,0,57,98,18.7
+KLM Royal Dutch Airlines,Boeing 747,0,0,0,0,46,46,
+KLM Royal Dutch Airlines,Boeing 767,0,0,0,0,12,12,
+KLM Royal Dutch Airlines,Boeing 777,30,1,31,0,0,31,16.5
+KLM Royal Dutch Airlines,Boeing 787 Dreamliner,28,0,28,0,0,28,6.4
+KLM Royal Dutch Airlines,Convair 880,0,0,0,0,1,1,
+KLM Royal Dutch Airlines,Douglas DC-8,0,0,0,0,37,37,
+KLM Royal Dutch Airlines,Fokker 70 / 100,0,0,0,0,6,6,
+KLM Royal Dutch Airlines,Lockheed L-188 Electra,0,0,0,0,12,12,
+KLM Royal Dutch Airlines,McDonnell Douglas DC-9,0,0,0,0,25,25,
+KLM Royal Dutch Airlines,McDonnell Douglas DC-10,0,0,0,0,12,12,
+KLM Royal Dutch Airlines,McDonnell Douglas MD-11,0,0,0,0,10,10,
+Japan Airlines,Airbus A300,0,0,0,0,22,22,
+Japan Airlines,Airbus A350 XWB,24,2,26,2,1,29,3.7
+Japan Airlines,Boeing 737,40,2,42,0,15,57,16.1
+Japan Airlines,Boeing 747,0,0,0,0,114,114,
+Japan Airlines,Boeing 767,27,0,27,0,33,60,18.7
+Japan Airlines,Boeing 777,10,0,10,0,37,47,18.0
+Japan Airlines,Boeing 787 Dreamliner,44,1,45,0,6,51,9.4
+Japan Airlines,Convair 880,0,0,0,0,8,8,
+Japan Airlines,Douglas DC-8,0,0,0,0,58,58,
+Japan Airlines,McDonnell Douglas DC-10,0,0,0,0,20,20,
+Japan Airlines,McDonnell Douglas MD-11,0,0,0,0,10,10,
+Japan Airlines,McDonnell Douglas MD-80,0,0,0,0,19,19,
+Japan Airlines,McDonnell Douglas MD-90,0,0,0,0,16,16,
+Hainan Airlines,Airbus A319,0,0,0,0,7,7,
+Hainan Airlines,Airbus A320,10,0,10,7,0,17,1.1
+Hainan Airlines,Airbus A321,2,0,2,3,0,5,0.7
+Hainan Airlines,Airbus A330,27,0,27,4,13,44,10.3
+Hainan Airlines,Airbus A340,0,0,0,0,3,3,
+Hainan Airlines,Airbus A350 XWB,0,0,0,0,9,9,
+Hainan Airlines,Boeing 737,146,0,146,2,92,240,10.5
+Hainan Airlines,Boeing 767,0,0,0,0,5,5,
+Hainan Airlines,Boeing 787 Dreamliner,34,3,37,0,3,40,9.3
+Hainan Airlines,Dornier Do-328,0,0,0,0,27,27,
+Swiss International Air Lines,Airbus A220,23,7,30,0,0,30,8.2
+Swiss International Air Lines,Airbus A319,0,0,0,0,8,8,
+Swiss International Air Lines,Airbus A320,13,5,18,2,19,39,13.3
+Swiss International Air Lines,Airbus A321,12,1,13,1,7,21,11.3
+Swiss International Air Lines,Airbus A330,14,0,14,0,15,29,15.4
+Swiss International Air Lines,Airbus A340,3,1,4,0,11,15,22.3
+Swiss International Air Lines,Airbus A350 XWB,1,1,2,1,0,3,0.5
+Swiss International Air Lines,Boeing 777,11,1,12,0,0,12,8.8
+Swiss International Air Lines,British Aerospace BAe 146 / Avro RJ,0,0,0,0,25,25,
+Swiss International Air Lines,De Havilland Canada DHC-8 Dash 8,0,0,0,0,4,4,
+Swiss International Air Lines,Embraer ERJ-145,0,0,0,0,25,25,
+Swiss International Air Lines,Fokker 70 / 100,0,0,0,0,2,2,
+Swiss International Air Lines,McDonnell Douglas MD-11,0,0,0,0,14,14,
+Swiss International Air Lines,McDonnell Douglas MD-80,0,0,0,0,10,10,
+Swiss International Air Lines,Saab 340,0,0,0,0,2,2,
+Swiss International Air Lines,Saab 2000,0,0,0,0,31,31,
+EVA Air,ATR 42 / 72,0,0,0,0,2,2,
+EVA Air,Airbus A320,0,0,0,0,1,1,
+EVA Air,Airbus A321,17,0,17,0,7,24,10.7
+EVA Air,Airbus A330,9,0,9,0,11,20,11.0
+EVA Air,Boeing 747,0,0,0,0,19,19,
+EVA Air,Boeing 757,0,0,0,0,2,2,
+EVA Air,Boeing 767,0,0,0,0,9,9,
+EVA Air,Boeing 777,40,2,42,0,3,45,11.3
+EVA Air,Boeing 787 Dreamliner,21,0,21,2,0,23,4.5
+EVA Air,McDonnell Douglas MD-11,0,0,0,0,12,12,
+EVA Air,McDonnell Douglas MD-90,0,0,0,0,7,7,
+British Airways,ATR 42 / 72,0,0,0,0,17,17,
+British Airways,Airbus A318,0,0,0,0,2,2,
+British Airways,Airbus A319,21,1,22,0,22,44,23.3
+British Airways,Airbus A320,90,3,93,3,36,132,13.7
+British Airways,Airbus A321,30,1,31,0,13,44,9.8
+British Airways,Airbus A350 XWB,17,1,18,0,0,18,4.5
+British Airways,Airbus A380,10,2,12,0,0,12,11.9
+British Airways,Aérospatiale/BAC Concorde,0,0,0,0,7,7,
+British Airways,BAC 1-11,0,0,0,0,44,44,
+British Airways,BAC Vickers VC-10,0,0,0,0,24,24,
+British Airways,Boeing 737,0,0,0,0,171,171,
+British Airways,Boeing 747,0,0,0,0,101,101,
+British Airways,Boeing 757,0,0,0,0,56,56,
+British Airways,Boeing 767,0,0,0,0,31,31,
+British Airways,Boeing 777,56,3,59,0,6,65,22.0
+British Airways,Boeing 787 Dreamliner,35,7,42,3,0,45,8.3
+British Airways,Bombardier CRJ-100 Series,0,0,0,0,10,10,
+British Airways,Bombardier CRJ-700,0,0,0,0,5,5,
+British Airways,British Aerospace BAe 146 / Avro RJ,0,0,0,0,35,35,
+British Airways,British Aerospace BAe ATP,0,0,0,0,33,33,
+British Airways,British Aerospace Jetstream 31 / 32,0,0,0,0,14,14,
+British Airways,British Aerospace Jetstream 41,0,0,0,0,16,16,
+British Airways,Britten-Norman BN-2 Islander,0,0,0,0,2,2,
+British Airways,De Havilland Canada DHC-6 Twin Otter,0,0,0,0,2,2,
+British Airways,De Havilland Canada DHC-7 Dash 7,0,0,0,0,5,5,
+British Airways,De Havilland Canada DHC-8 Dash 8,0,0,0,0,20,20,
+British Airways,Dornier Do-328,0,0,0,0,19,19,
+British Airways,Embraer EMB-120 Brasilia,0,0,0,0,3,3,
+British Airways,Embraer ERJ-145,0,0,0,0,30,30,
+British Airways,Embraer ERJ-170,0,0,0,0,6,6,
+British Airways,Embraer ERJ-190,18,2,20,0,4,24,14.4
+British Airways,Fokker 70 / 100,0,0,0,0,8,8,
+British Airways,Hawker Siddeley HS-121 Trident,0,0,0,0,67,67,
+British Airways,Lockheed L-1011 TriStar,0,0,0,0,26,26,
+British Airways,McDonnell Douglas DC-10,0,0,0,0,8,8,
+British Airways,Saab 340,0,0,0,0,9,9,
+British Airways,Saab 2000,0,0,0,0,3,3,
+British Airways,Vickers Vanguard,0,0,0,0,12,12,
+Qantas Airways,Airbus A300,0,0,0,0,4,4,
+Qantas Airways,Airbus A321,4,0,4,3,0,7,0.4
+Qantas Airways,Airbus A330,27,1,28,0,4,32,19.0
+Qantas Airways,Airbus A350 XWB,0,0,0,1,0,1,
+Qantas Airways,Airbus A380,10,0,10,0,2,12,16.4
+Qantas Airways,Boeing 737,71,8,79,0,44,123,17.5
+Qantas Airways,Boeing 747,0,0,0,0,65,65,
+Qantas Airways,Boeing 767,0,0,0,0,38,38,
+Qantas Airways,Boeing 787 Dreamliner,13,1,14,0,0,14,7.0
+Qantas Airways,Lockheed L-188 Electra,0,0,0,0,4,4,
+Lufthansa,ATR 42 / 72,0,0,0,0,2,2,
+Lufthansa,Airbus A300,0,0,0,0,26,26,
+Lufthansa,Airbus A310,0,0,0,0,25,25,
+Lufthansa,Airbus A319,31,3,34,0,7,41,23.4
+Lufthansa,Airbus A320,67,8,75,0,60,135,10.9
+Lufthansa,Airbus A321,55,15,70,2,12,84,16.7
+Lufthansa,Airbus A330,5,2,7,0,17,24,15.8
+Lufthansa,Airbus A340,16,1,17,0,45,62,23.8
+Lufthansa,Airbus A350 XWB,30,1,31,0,0,31,5.8
+Lufthansa,Airbus A380,5,3,8,0,6,14,13.9
+Lufthansa,Boeing 720,0,0,0,0,8,8,
+Lufthansa,Boeing 737,0,0,0,0,155,155,
+Lufthansa,Boeing 747,22,4,26,0,54,80,16.5
+Lufthansa,Boeing 767,0,0,0,0,3,3,
+Lufthansa,Boeing 777,0,0,0,12,0,12,
+Lufthansa,Boeing 787 Dreamliner,14,0,14,15,0,29,2.8
+Lufthansa,Bombardier CRJ-100 Series,0,0,0,0,46,46,
+Lufthansa,Bombardier CRJ-700,0,0,0,0,20,20,
+Lufthansa,Bombardier CRJ-900,20,3,23,0,12,35,15.9
+Lufthansa,British Aerospace BAe 146 / Avro RJ,0,0,0,0,28,28,
+Lufthansa,Douglas DC-8,0,0,0,0,1,1,
+Lufthansa,Embraer ERJ-190,0,0,0,0,14,14,
+Lufthansa,Fokker 50 / 60,0,0,0,0,24,24,
+Lufthansa,Fokker 70 / 100,0,0,0,0,2,2,
+Lufthansa,McDonnell Douglas DC-10,0,0,0,0,12,12,
+Virgin Atlantic,Airbus A320,0,0,0,0,6,6,
+Virgin Atlantic,Airbus A321,0,0,0,0,1,1,
+Virgin Atlantic,Airbus A330,14,0,14,1,8,23,7.5
+Virgin Atlantic,Airbus A340,0,0,0,0,29,29,
+Virgin Atlantic,Airbus A350 XWB,11,1,12,0,0,12,5.2
+Virgin Atlantic,BAC 1-11,0,0,0,0,1,1,
+Virgin Atlantic,Boeing 737,0,0,0,0,1,1,
+Virgin Atlantic,Boeing 747,0,0,0,0,30,30,
+Virgin Atlantic,Boeing 767,0,0,0,0,1,1,
+Virgin Atlantic,Boeing 787 Dreamliner,16,1,17,0,0,17,10.0
+Virgin Atlantic,British Aerospace BAe 146 / Avro RJ,0,0,0,0,3,3,
+Saudia,Airbus A300,0,0,0,0,5,5,
+Saudia,Airbus A310,0,0,0,0,1,1,
+Saudia,Airbus A319,0,0,0,0,5,5,
+Saudia,Airbus A320,35,2,37,0,30,67,9.6
+Saudia,Airbus A321,25,2,27,4,3,34,8.7
+Saudia,Airbus A330,33,4,37,1,34,72,12.1
+Saudia,Airbus A340,0,0,0,0,3,3,
+Saudia,Boeing 747,3,1,4,0,59,63,30.5
+Saudia,Boeing 767,0,0,0,0,7,7,
+Saudia,Boeing 777,43,0,43,0,23,66,11.8
+Saudia,Boeing 787 Dreamliner,20,1,21,0,0,21,7.6
+Saudia,Embraer ERJ-170,0,0,0,0,15,15,
+Saudia,McDonnell Douglas MD-11,0,0,0,0,4,4,
+Saudia,McDonnell Douglas MD-90,0,0,0,0,1,1,
+STARLUX Airlines,Airbus A321,13,0,13,0,0,13,4.6
+STARLUX Airlines,Airbus A330,6,0,6,5,0,11,2.9
+STARLUX Airlines,Airbus A350 XWB,11,0,11,2,1,14,1.9
+Iberia,Airbus A300,0,0,0,0,9,9,
+Iberia,Airbus A319,3,0,3,0,24,27,17.8
+Iberia,Airbus A320,28,2,30,5,67,102,8.9
+Iberia,Airbus A321,17,3,20,1,6,27,14.5
+Iberia,Airbus A330,18,2,20,0,12,32,10.5
+Iberia,Airbus A340,0,0,0,0,39,39,
+Iberia,Airbus A350 XWB,22,1,23,0,0,23,5.0
+Iberia,Boeing 737,0,0,0,0,10,10,
+Iberia,Boeing 747,0,0,0,0,22,22,
+Iberia,Boeing 757,0,0,0,0,30,30,
+Iberia,Boeing 767,0,0,0,0,2,2,
+Iberia,Convair 990,0,0,0,0,2,2,
+Iberia,Douglas DC-8,0,0,0,0,17,17,
+Iberia,Lockheed L-1011 TriStar,0,0,0,0,2,2,
+Iberia,McDonnell Douglas DC-9,0,0,0,0,50,50,
+Iberia,McDonnell Douglas DC-10,0,0,0,0,13,13,
+Iberia,McDonnell Douglas MD-80,0,0,0,0,39,39,
+Delta Air Lines,Airbus A220,78,4,82,0,0,82,4.7
+Delta Air Lines,Airbus A310,0,0,0,0,30,30,
+Delta Air Lines,Airbus A319,51,6,57,0,0,57,24.1
+Delta Air Lines,Airbus A320,43,2,45,0,24,69,29.1
+Delta Air Lines,Airbus A321,208,8,216,18,0,234,5.1
+Delta Air Lines,Airbus A330,76,5,81,0,0,81,11.0
+Delta Air Lines,Airbus A350 XWB,38,2,40,1,0,41,5.5
+Delta Air Lines,Boeing 717,71,9,80,0,24,104,24.4
+Delta Air Lines,Boeing 737,234,6,240,0,116,356,14.8
+Delta Air Lines,Boeing 747,0,0,0,0,31,31,
+Delta Air Lines,Boeing 757,87,3,90,0,115,205,27.1
+Delta Air Lines,Boeing 767,53,5,58,0,66,124,27.7
+Delta Air Lines,Boeing 777,0,0,0,0,18,18,
+Delta Air Lines,Convair 880,0,0,0,0,17,17,
+Delta Air Lines,Douglas DC-8,0,0,0,0,42,42,
+Delta Air Lines,Embraer ERJ-190,0,0,0,0,15,15,
+Delta Air Lines,Lockheed L-1011 TriStar,0,0,0,0,70,70,
+Delta Air Lines,McDonnell Douglas DC-9,0,0,0,0,165,165,
+Delta Air Lines,McDonnell Douglas DC-10,0,0,0,0,14,14,
+Delta Air Lines,McDonnell Douglas MD-11,0,0,0,0,17,17,
+Delta Air Lines,McDonnell Douglas MD-80,0,0,0,0,151,151,
+Delta Air Lines,McDonnell Douglas MD-90,0,0,0,0,78,78,
+Austrian Airlines,Airbus A310,0,0,0,0,4,4,
+Austrian Airlines,Airbus A319,0,0,0,0,7,7,
+Austrian Airlines,Airbus A320,31,3,34,1,0,35,18.4
+Austrian Airlines,Airbus A321,5,1,6,0,0,6,28.3
+Austrian Airlines,Airbus A330,0,0,0,0,4,4,
+Austrian Airlines,Airbus A340,0,0,0,0,4,4,
+Austrian Airlines,BAC 1-11,0,0,0,0,2,2,
+Austrian Airlines,Boeing 737,0,0,0,0,13,13,
+Austrian Airlines,Boeing 767,3,0,3,0,3,6,26.4
+Austrian Airlines,Boeing 777,5,1,6,0,0,6,25.2
+Austrian Airlines,Boeing 787 Dreamliner,2,0,2,5,0,7,6.3
+Austrian Airlines,De Havilland Canada DHC-8 Dash 8,0,0,0,0,21,21,
+Austrian Airlines,Embraer ERJ-190,14,1,15,0,2,17,14.6
+Austrian Airlines,Fokker 50 / 60,0,0,0,0,11,11,
+Austrian Airlines,Fokker 70 / 100,0,0,0,0,30,30,
+Austrian Airlines,McDonnell Douglas DC-9,0,0,0,0,15,15,
+Austrian Airlines,McDonnell Douglas MD-80,0,0,0,0,30,30,
+Air New Zealand,ATR 42 / 72,30,1,31,0,6,37,8.5
+Air New Zealand,Airbus A320,22,1,23,0,13,36,10.5
+Air New Zealand,Airbus A321,11,3,14,0,0,14,4.6
+Air New Zealand,Boeing 737,0,0,0,0,50,50,
+Air New Zealand,Boeing 747,0,0,0,0,15,15,
+Air New Zealand,Boeing 767,0,0,0,0,21,21,
+Air New Zealand,Boeing 777,9,1,10,0,11,21,14.0
+Air New Zealand,Boeing 787 Dreamliner,11,3,14,4,0,18,9.7
+Air New Zealand,British Aerospace BAe 146 / Avro RJ,0,0,0,0,5,5,
+Air New Zealand,De Havilland Canada DHC-8 Dash 8,23,0,23,0,0,23,19.4
+Air New Zealand,Douglas DC-8,0,0,0,0,7,7,
+Air New Zealand,Lockheed L-188 Electra,0,0,0,0,4,4,
+Air New Zealand,McDonnell Douglas DC-10,0,0,0,0,8,8,
+Finnair,ATR 42 / 72,12,0,12,0,15,27,16.8
+Finnair,Airbus A300,0,0,0,0,2,2,
+Finnair,Airbus A319,3,2,5,0,6,11,24.8
+Finnair,Airbus A320,9,1,10,0,2,12,23.6
+Finnair,Airbus A321,13,1,14,0,5,19,11.5
+Finnair,Airbus A330,7,1,8,0,0,8,16.4
+Finnair,Airbus A340,0,0,0,0,7,7,
+Finnair,Airbus A350 XWB,17,1,18,0,0,18,8.0
+Finnair,Boeing 737,0,0,0,0,1,1,
+Finnair,Boeing 757,0,0,0,0,7,7,
+Finnair,Douglas DC-8,0,0,0,0,4,4,
+Finnair,Embraer ERJ-170,0,0,0,0,10,10,
+Finnair,Embraer ERJ-190,10,2,12,0,0,12,17.7
+Finnair,McDonnell Douglas DC-9,0,0,0,0,27,27,
+Finnair,McDonnell Douglas DC-10,0,0,0,0,5,5,
+Finnair,McDonnell Douglas MD-11,0,0,0,0,7,7,
+Finnair,McDonnell Douglas MD-80,0,0,0,0,26,26,
+Finnair,Saab 340,0,0,0,0,7,7,
+Etihad Airways,Airbus A300,0,0,0,0,3,3,
+Etihad Airways,Airbus A310,0,0,0,0,1,1,
+Etihad Airways,Airbus A319,0,0,0,0,4,4,
+Etihad Airways,Airbus A320,16,1,17,0,12,29,13.9
+Etihad Airways,Airbus A321,24,1,25,3,1,29,5.7
+Etihad Airways,Airbus A330,0,0,0,0,42,42,
+Etihad Airways,Airbus A340,0,0,0,0,12,12,
+Etihad Airways,Airbus A350 XWB,10,0,10,2,0,12,3.6
+Etihad Airways,Airbus A380,7,2,9,0,1,10,10.4
+Etihad Airways,Boeing 747,0,0,0,0,2,2,
+Etihad Airways,Boeing 767,0,0,0,0,2,2,
+Etihad Airways,Boeing 777,14,1,15,0,22,37,12.6
+Etihad Airways,Boeing 787 Dreamliner,46,1,47,0,0,47,7.1
+Etihad Airways,McDonnell Douglas MD-11,0,0,0,0,2,2,
+Malaysia Airlines,Airbus A300,0,0,0,0,6,6,
+Malaysia Airlines,Airbus A310,0,0,0,0,1,1,
+Malaysia Airlines,Airbus A330,28,2,30,3,22,55,10.2
+Malaysia Airlines,Airbus A350 XWB,6,1,7,0,0,7,7.8
+Malaysia Airlines,Airbus A380,0,0,0,0,6,6,
+Malaysia Airlines,Boeing 737,51,3,54,1,126,181,10.2
+Malaysia Airlines,Boeing 747,0,0,0,0,41,41,
+Malaysia Airlines,Boeing 777,0,0,0,0,17,17,
+Malaysia Airlines,De Havilland Canada DHC-6 Twin Otter,0,0,0,0,7,7,
+Malaysia Airlines,Fokker 50 / 60,0,0,0,0,12,12,
+Malaysia Airlines,McDonnell Douglas DC-10,0,0,0,0,16,16,
+Malaysia Airlines,McDonnell Douglas MD-11,0,0,0,0,6,6,
+AirAsia,Airbus A320,87,12,99,0,61,160,11.6
+AirAsia,Airbus A321,11,0,11,0,4,15,9.0
+AirAsia,Airbus A330,0,0,0,0,1,1,
+AirAsia,Boeing 737,0,0,0,0,32,32,
+AirAsia,Boeing 747,0,0,0,0,5,5,
+AirAsia,McDonnell Douglas MD-11,0,0,0,0,1,1,
+Thai Airways,Airbus A310,0,0,0,0,2,2,
+Thai Airways,Boeing 737,0,0,0,0,5,5,
+Thai Airways,Short 330,0,0,0,0,4,4,
+Scoot,Airbus A319,0,0,0,0,4,4,
+Scoot,Airbus A320,13,5,18,0,28,46,6.6
+Scoot,Airbus A321,11,1,12,0,0,12,3.5
+Scoot,Boeing 777,0,0,0,0,6,6,
+Scoot,Boeing 787 Dreamliner,23,1,24,0,0,24,8.5
+Scoot,Embraer E2,9,0,9,0,0,9,1.1
+Fiji Airways,Airbus A330,4,0,4,0,2,6,12.1
+Fiji Airways,Airbus A350 XWB,4,0,4,0,0,4,6.8
+Fiji Airways,Boeing 737,6,0,6,0,4,10,8.6
+Fiji Airways,Boeing 747,0,0,0,0,1,1,
+Bangkok Airways,ATR 42 / 72,10,0,10,0,21,31,9.8
+Bangkok Airways,Airbus A319,11,0,11,0,6,17,18.9
+Bangkok Airways,Airbus A320,1,0,1,0,8,9,20.9
+Bangkok Airways,Boeing 717,0,0,0,0,4,4,
+Bangkok Airways,De Havilland Canada DHC-8 Dash 8,0,0,0,0,7,7,
+Bangkok Airways,Fokker 70 / 100,0,0,0,0,1,1,
+Bangkok Airways,Short 330,0,0,0,0,1,1,
+China Southern Airlines,ATR 42 / 72,0,0,0,0,5,5,
+China Southern Airlines,Airbus A300,0,0,0,0,6,6,
+China Southern Airlines,Airbus A319,9,0,9,0,41,50,2.4
+China Southern Airlines,Airbus A320,166,0,166,3,48,217,9.9
+China Southern Airlines,Airbus A321,174,3,177,6,15,198,8.8
+China Southern Airlines,Airbus A330,22,3,25,0,25,50,10.0
+China Southern Airlines,Airbus A350 XWB,20,0,20,0,0,20,4.8
+China Southern Airlines,Airbus A380,0,0,0,0,5,5,
+China Southern Airlines,Boeing 737,197,5,202,2,111,315,11.5
+China Southern Airlines,Boeing 747,0,0,0,0,2,2,
+China Southern Airlines,Boeing 757,0,0,0,0,32,32,
+China Southern Airlines,Boeing 767,0,0,0,0,6,6,
+China Southern Airlines,Boeing 777,22,0,22,0,19,41,9.6
+China Southern Airlines,Boeing 787 Dreamliner,21,0,21,6,10,37,6.5
+China Southern Airlines,COMAC ARJ21,35,0,35,0,0,35,3.0
+China Southern Airlines,COMAC C919,9,0,9,1,0,10,0.8
+China Southern Airlines,Embraer ERJ-145,0,0,0,0,6,6,
+China Southern Airlines,Embraer ERJ-190,0,0,0,0,20,20,
+China Southern Airlines,McDonnell Douglas MD-80,0,0,0,0,23,23,
+China Southern Airlines,McDonnell Douglas MD-90,0,0,0,0,13,13,
+China Southern Airlines,Saab 340,0,0,0,0,4,4,
+Virgin Australia,ATR 42 / 72,0,0,0,0,14,14,
+Virgin Australia,Airbus A320,3,0,3,0,6,9,19.0
+Virgin Australia,Airbus A330,0,0,0,0,8,8,
+Virgin Australia,Boeing 737,95,4,99,0,39,138,12.1
+Virgin Australia,Boeing 777,0,0,0,0,5,5,
+Virgin Australia,Embraer E2,2,0,2,1,0,3,0.4
+Virgin Australia,Embraer ERJ-170,0,0,0,0,4,4,
+Virgin Australia,Embraer ERJ-190,0,0,0,0,18,18,
+Virgin Australia,Fokker 50 / 60,0,0,0,0,1,1,
+Virgin Australia,Fokker 70 / 100,0,0,0,0,14,14,
+Gulf Air,Airbus A319,0,0,0,0,2,2,
+Gulf Air,Airbus A320,14,2,16,1,26,43,10.7
+Gulf Air,Airbus A321,15,3,18,2,4,24,5.5
+Gulf Air,Airbus A330,0,0,0,0,12,12,
+Gulf Air,Airbus A340,0,0,0,0,10,10,
+Gulf Air,BAC 1-11,0,0,0,0,4,4,
+Gulf Air,BAC Vickers VC-10,0,0,0,0,5,5,
+Gulf Air,Boeing 737,0,0,0,0,14,14,
+Gulf Air,Boeing 747,0,0,0,0,2,2,
+Gulf Air,Boeing 757,0,0,0,0,1,1,
+Gulf Air,Boeing 767,0,0,0,0,22,22,
+Gulf Air,Boeing 777,0,0,0,0,4,4,
+Gulf Air,Boeing 787 Dreamliner,8,3,11,1,0,12,6.8
+Gulf Air,Embraer ERJ-170,0,0,0,0,2,2,
+Gulf Air,Embraer ERJ-190,0,0,0,0,2,2,
+Gulf Air,Handley Page Herald,0,0,0,0,2,2,
+Gulf Air,Lockheed L-1011 TriStar,0,0,0,0,13,13,
+Air Astana,Airbus A319,0,0,0,0,1,1,
+Air Astana,Airbus A320,10,1,11,0,14,25,4.4
+Air Astana,Airbus A321,19,1,20,1,2,23,6.2
+Air Astana,Boeing 737,0,0,0,0,4,4,
+Air Astana,Boeing 757,0,0,0,0,5,5,
+Air Astana,Boeing 767,3,0,3,0,2,5,12.2
+Air Astana,Boeing 787 Dreamliner,0,0,0,1,0,1,
+Air Astana,Embraer E2,0,0,0,0,5,5,
+Air Astana,Embraer ERJ-190,0,0,0,0,9,9,
+Air Astana,Fokker 50 / 60,0,0,0,0,6,6,
+China Airlines,Airbus A300,0,0,0,0,20,20,
+China Airlines,Airbus A320,0,0,0,0,2,2,
+China Airlines,Airbus A321,17,4,21,2,0,23,2.4
+China Airlines,Airbus A330,13,0,13,0,13,26,17.7
+China Airlines,Airbus A340,0,0,0,0,7,7,
+China Airlines,Airbus A350 XWB,14,1,15,1,0,16,8.5
+China Airlines,Boeing 737,7,0,7,0,35,42,10.5
+China Airlines,Boeing 747,8,0,8,0,52,60,20.5
+China Airlines,Boeing 767,0,0,0,0,2,2,
+China Airlines,Boeing 777,20,0,20,0,0,20,7.0
+China Airlines,Boeing 787 Dreamliner,0,0,0,5,0,5,
+China Airlines,McDonnell Douglas MD-11,0,0,0,0,5,5,
+Ethiopian Airlines,ATR 42 / 72,0,0,0,0,3,3,
+Ethiopian Airlines,Airbus A350 XWB,26,0,26,0,0,26,5.6
+Ethiopian Airlines,Boeing 720,0,0,0,0,6,6,
+Ethiopian Airlines,Boeing 737,38,1,39,0,30,69,9.1
+Ethiopian Airlines,Boeing 747,0,0,0,0,1,1,
+Ethiopian Airlines,Boeing 757,0,0,0,0,12,12,
+Ethiopian Airlines,Boeing 767,2,2,4,0,16,20,12.7
+Ethiopian Airlines,Boeing 777,22,1,23,0,1,24,10.1
+Ethiopian Airlines,Boeing 787 Dreamliner,27,3,30,0,0,30,9.7
+Ethiopian Airlines,De Havilland Canada DHC-6 Twin Otter,0,0,0,1,7,8,
+Ethiopian Airlines,De Havilland Canada DHC-8 Dash 8,28,1,29,0,5,34,10.0
+Ethiopian Airlines,Fokker 50 / 60,0,0,0,0,5,5,
+Ethiopian Airlines,McDonnell Douglas MD-11,0,0,0,0,3,3,
+IndiGo,ATR 42 / 72,43,1,44,0,6,50,5.3
+IndiGo,Airbus A320,167,35,202,6,199,407,6.1
+IndiGo,Airbus A321,154,16,170,25,12,207,2.8
+IndiGo,Boeing 737,5,0,5,0,14,19,11.5
+IndiGo,Boeing 777,2,0,2,0,0,2,17.9
+IndiGo,Boeing 787 Dreamliner,6,0,6,0,0,6,7.8
+Eurowings,ATR 42 / 72,0,0,0,0,45,45,
+Eurowings,Airbus A319,22,1,23,0,29,52,17.3
+Eurowings,Airbus A320,33,3,36,0,67,103,12.2
+Eurowings,Airbus A321,11,0,11,0,5,16,8.6
+Eurowings,Airbus A330,0,0,0,0,12,12,
+Eurowings,Airbus A340,0,0,0,0,2,2,
+Eurowings,Boeing 737,0,0,0,0,20,20,
+Eurowings,Boeing 767,0,0,0,0,1,1,
+Eurowings,Bombardier CRJ-100 Series,0,0,0,0,23,23,
+Eurowings,Bombardier CRJ-700,0,0,0,0,2,2,
+Eurowings,Bombardier CRJ-900,0,0,0,0,23,23,
+Eurowings,British Aerospace BAe 146 / Avro RJ,0,0,0,0,19,19,
+Eurowings,De Havilland Canada DHC-8 Dash 8,0,0,0,0,20,20,
+Eurowings,Dornier Do-328,0,0,0,0,1,1,
+Asiana Airlines,Airbus A320,0,0,0,0,11,11,
+Asiana Airlines,Airbus A321,24,0,24,0,29,53,6.8
+Asiana Airlines,Airbus A330,12,2,14,0,1,15,16.2
+Asiana Airlines,Airbus A350 XWB,14,1,15,0,0,15,6.7
+Asiana Airlines,Airbus A380,6,0,6,0,0,6,11.0
+Asiana Airlines,Boeing 737,0,0,0,0,34,34,
+Asiana Airlines,Boeing 747,0,0,0,0,20,20,
+Asiana Airlines,Boeing 767,0,0,0,0,19,19,
+Asiana Airlines,Boeing 777,8,1,9,0,4,13,18.1
+Vueling,Airbus A319,6,0,6,0,5,11,18.9
+Vueling,Airbus A320,91,20,111,2,81,194,12.5
+Vueling,Airbus A321,19,3,22,0,0,22,8.7
+LATAM Airlines,Airbus A319,36,3,39,0,11,50,17.7
+LATAM Airlines,Airbus A320,166,20,186,11,44,241,12.0
+LATAM Airlines,Airbus A321,64,2,66,17,0,83,9.2
+LATAM Airlines,Airbus A350 XWB,0,0,0,0,13,13,
+LATAM Airlines,Boeing 767,27,2,29,0,20,49,18.0
+LATAM Airlines,Boeing 777,9,1,10,0,5,15,14.9
+LATAM Airlines,Boeing 787 Dreamliner,35,3,38,3,0,41,9.5
+LATAM Airlines,Embraer E2,0,0,0,1,0,1,
+Porter Airlines,De Havilland Canada DHC-8 Dash 8,28,1,29,0,0,29,16.0
+Porter Airlines,Embraer E2,51,1,52,1,0,53,2.0
+Volotea,Airbus A319,13,3,16,0,4,20,21.1
+Volotea,Airbus A320,22,2,24,3,7,34,17.3
+Volotea,Boeing 717,0,0,0,0,19,19,
+Volotea,Boeing 737,0,0,0,0,2,2,
+Garuda Indonesia,ATR 42 / 72,0,0,0,0,18,18,
+Garuda Indonesia,Airbus A300,0,0,0,0,22,22,
+Garuda Indonesia,Airbus A330,10,14,24,0,41,65,14.2
+Garuda Indonesia,Airbus A340,0,0,0,0,5,5,
+Garuda Indonesia,Boeing 720,0,0,0,0,2,2,
+Garuda Indonesia,Boeing 737,42,4,46,1,111,158,13.4
+Garuda Indonesia,Boeing 747,0,0,0,0,70,70,
+Garuda Indonesia,Boeing 767,0,0,0,0,19,19,
+Garuda Indonesia,Boeing 777,6,2,8,0,8,16,11.3
+Garuda Indonesia,Bombardier CRJ-1000,0,0,0,0,18,18,
+Garuda Indonesia,Convair 990,0,0,0,0,3,3,
+Garuda Indonesia,Douglas DC-8,0,0,0,0,11,11,
+Garuda Indonesia,Lockheed L-1011 TriStar,0,0,0,0,2,2,
+Garuda Indonesia,Lockheed L-188 Electra,0,0,0,0,3,3,
+Garuda Indonesia,McDonnell Douglas DC-9,0,0,0,0,25,25,
+Garuda Indonesia,McDonnell Douglas DC-10,0,0,0,0,26,26,
+Garuda Indonesia,McDonnell Douglas MD-11,0,0,0,0,18,18,
+Aegean Airlines,ATR 42 / 72,0,0,0,0,5,5,
+Aegean Airlines,Airbus A319,0,0,0,0,4,4,
+Aegean Airlines,Airbus A320,30,17,47,0,15,62,10.1
+Aegean Airlines,Airbus A321,16,4,20,7,8,35,5.4
+Aegean Airlines,Boeing 737,0,0,0,0,17,17,
+Aegean Airlines,British Aerospace BAe 146 / Avro RJ,0,0,0,0,6,6,
+Oman Air,ATR 42 / 72,0,0,0,0,4,4,
+Oman Air,Airbus A310,0,0,0,0,6,6,
+Oman Air,Airbus A320,0,0,0,0,5,5,
+Oman Air,Airbus A330,0,0,0,0,13,13,
+Oman Air,Boeing 737,22,2,24,0,42,66,6.5
+Oman Air,Boeing 757,0,0,0,0,1,1,
+Oman Air,Boeing 767,0,0,0,0,1,1,
+Oman Air,Boeing 787 Dreamliner,11,1,12,0,2,14,7.4
+Oman Air,De Havilland Canada DHC-6 Twin Otter,0,0,0,0,1,1,
+Oman Air,Embraer ERJ-170,0,0,0,0,4,4,
+Transavia France,Airbus A320,22,1,23,6,4,33,1.2
+Transavia France,Boeing 737,62,5,67,0,7,74,12.5
+AZAL Azerbaijan Airlines,ATR 42 / 72,0,0,0,0,6,6,
+AZAL Azerbaijan Airlines,Airbus A319,4,0,4,0,0,4,20.4
+AZAL Azerbaijan Airlines,Airbus A320,13,4,17,3,5,25,12.7
+AZAL Azerbaijan Airlines,Airbus A321,0,0,0,2,0,2,
+AZAL Azerbaijan Airlines,Airbus A340,1,0,1,0,2,3,19.2
+AZAL Azerbaijan Airlines,Boeing 757,0,0,0,0,4,4,
+AZAL Azerbaijan Airlines,Boeing 767,2,1,3,0,0,3,14.8
+AZAL Azerbaijan Airlines,Boeing 777,1,0,1,0,0,1,6.2
+AZAL Azerbaijan Airlines,Boeing 787 Dreamliner,2,0,2,1,0,3,11.3
+AZAL Azerbaijan Airlines,Canadair CL-44,0,0,0,0,1,1,
+AZAL Azerbaijan Airlines,Embraer ERJ-170,0,0,0,0,1,1,
+AZAL Azerbaijan Airlines,Embraer ERJ-190,7,0,7,0,1,8,10.0

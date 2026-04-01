@@ -1,0 +1,55 @@
+﻿name,url,info_avionics,info_engine,info_engine_type,info_wing_tips,info_seats_total,info_seats_economy,info_seats_business,info_seats_first
+Airbus A300,https://aerocorner.com/aircraft/airbus-a300-600/,Honeywell 331-250,2 × Pratt & Whitney PW4000,Turbofan,Wingtip fences,,,,
+Airbus A310,https://aerocorner.com/aircraft/airbus-a310-300/,Honeywell 331-250,2 × JT9D-7R4E1 / PW4000 / CF6-80C2,Turbofan,No winglets,243.0,,,
+Airbus A319,https://aerocorner.com/aircraft/airbus-industrie-a319/,Thales D-HUDS Avionics,2 × International Aero Engines V2500,Turbofan,Wingtip fences,280.0,156.0,124.0,
+Airbus A320,https://aerocorner.com/aircraft/airbus-a320/,Thales Avionics Suite,2 × IAE V2500 or CFM International CFM56-5B,Turbofan,Wingtip fences,338.0,190.0,148.0,
+Airbus A321,https://aerocorner.com/aircraft/airbus-industrie-a321/,Thales Avionics Suite,,-,No winglets,405.0,220.0,185.0,
+Airbus A330,https://aerocorner.com/aircraft/airbus-industrie-a330-300/,Rockwell Collins Avionics,2 × General Electric CF6 / Pratt & Whitney PW4000 / Rolls-Royce Trent 700,Turbofan,No winglets,630.0,335.0,295.0,
+Airbus A340,https://aerocorner.com/aircraft/airbus-a340-300/,Thales – Smiths Avionics,4 × CFM International CFM56,Turbofan,Canted winglets,557.0,290.0,267.0,
+Airbus A350 XWB,https://aerocorner.com/aircraft/airbus-a350-xwb/,Thales Avionics Suite,2 × Rolls Royce Trent XWB,Turbofan,Blended tips,582.0,312.0,270.0,
+Airbus A380,https://aerocorner.com/aircraft/airbus-a380-800/,Thales Rockwell Honeywell Combo,4 × Engine Alliance GP7270 or Rolls-Royce Trent 900,Turbofan,Wingtip fences,1749.0,853.0,480.0,416.0
+Boeing 737,https://aerocorner.com/aircraft/boeing-737-800/,Rockwell Collins avionics,2 × Snecma / CFM56-7B27,Turbofan,No winglets,526.0,189.0,175.0,162.0
+Boeing 747,https://aerocorner.com/aircraft/boeing-747-400/,"Honeywell Avionics FMC , Rockwell-Collins CMC",4 × P&W4000 / GE CF6 / RR RB211,Turbofan,Canted winglets,1356.0,416.0,524.0,416.0
+Boeing 757,https://aerocorner.com/aircraft/boeing-757-200/,Rockwell Collins CRT,2 × Pratt & Whitney PW2037,Turbofan,No winglets,239.0,,,
+Boeing 767,https://aerocorner.com/aircraft/boeing-767-300/,Rockwell Collins Avionics,2 × Rolls Royce RB211-524H or General Electric CF6-80C2B or Pratt & Whitney PW4060,Turbofan,No winglets,838.0,351.0,269.0,218.0
+Boeing 777,https://aerocorner.com/aircraft/boeing-777-300er/,Honeywell Avionics,2 × General Electric GE90-115B,Turbofan,Raked wingtips,1366.0,550.0,451.0,365.0
+Boeing 787 Dreamliner,https://aerocorner.com/aircraft/boeing-787-dreamliner/,Rockwell Collins next generation avionics,,-,No winglets,460.0,250.0,210.0,
+Aérospatiale/BAC Concorde,https://aerocorner.com/aircraft/aerospatiale-bac-concorde/,"Fly by wire flight controls, Digital Air Intake Control Units",4 × Rolls-Royce / SNECMA Olympus 593 Mk 610,Jet,No winglets,340.0,128.0,120.0,92.0
+McDonnell Douglas DC-10,https://aerocorner.com/aircraft/mcdonnell-douglas-dc-10-30/,,,,,,,,
+Convair 880,https://aerocorner.com/aircraft/convair-880/,,4 × General Electric CJ-805-3,Jet,No winglets,110.0,,,
+Lockheed L-188 Electra,https://aerocorner.com/aircraft/lockheed-l-188-electra/,"Bendix Weather Radar, MLS, GPS",4 × Allison 501-D13,Turboprop,No winglets,98.0,,,
+Fokker 50 / 60,https://aerocorner.com/aircraft/fokker-50/,EFIS and Automatic Flight Control System,2 × Pratt & Whitney PW125B turboprops,Turboprop,No winglets,62.0,,,
+McDonnell Douglas MD-80,https://aerocorner.com/aircraft/mcdonnell-douglas-md-82/,,2 × Pratt & Whitney JT8D-217,Turbofan,No winglets,172.0,,,
+McDonnell Douglas MD-90,https://aerocorner.com/aircraft/mcdonnell-douglas-md-90-er/,,2 × International Aero EnginesIAE V2525-D5,Turbofan,No winglets,325.0,172.0,153.0,
+Airbus A220,https://aerocorner.com/aircraft/airbus-a220-300/,Rockwell Collins Pro Line Fusion,2 × Pratt & Whitney PW1500G,Turbofan,No winglets,141.0,,,
+Fokker 70 / 100,https://aerocorner.com/aircraft/fokker-100/,Rockwell Collins DU-1000 EFIS,2 × Rolls-Royce Tay Mk.650 Turbofans,Turbofan,No winglets,314.0,122.0,107.0,85.0
+McDonnell Douglas MD-11,https://aerocorner.com/aircraft/mcdonnell-douglas-md-11/,Honeywell VIA 2000 computers,3 × Pratt & Whitney PW4460/62 or General Electric CF6-80C2D1F,Turbofan,Canted winglets,1026.0,410.0,323.0,293.0
+Airbus A318,https://aerocorner.com/aircraft/airbus-a318/,Thales D-HUDS Avionics,2 × CFM56-5B,Turbofan,Wingtip fences,220.0,110.0,110.0,
+Bombardier CRJ-700,https://aerocorner.com/aircraft/bombardier-crj-700/,Rockwell Collins ProLine 4,,-,No winglets,78.0,,,
+Bombardier CRJ-900,https://aerocorner.com/aircraft/bombardier-crj-900/,Rockwell Collins ProLine 4,2 × General Electric CF34-8C5 turbofans,Turbofan,No winglets,70.0,38.0,20.0,12.0
+Bombardier CRJ-1000,https://aerocorner.com/aircraft/bombardier-crj-1000/,Rockwell Collins ProLine 4,2 × General Electric GE CF34-8C5A1,Turbofan,Blended tips,204.0,104.0,100.0,
+Convair 990,https://aerocorner.com/aircraft/convair-990-coronado/,,4 × General Electric CJ805-23B,Turbofan,No winglets,149.0,,,
+Dornier Do-328,https://aerocorner.com/aircraft/fairchild-dornier-328jet/,Honeywell Primus 2000,2 × Pratt And Whitney PW306B,Turbofan,No winglets,66.0,34.0,32.0,
+Douglas DC-8,https://aerocorner.com/aircraft/douglas-dc-8/,,,-,No winglets,439.0,259.0,180.0,
+Embraer EMB-120 Brasilia,https://aerocorner.com/aircraft/embraer-emb-120-brasilia/,Rockwell Collins Pro Line II,,-,No winglets,67.0,37.0,30.0,
+Embraer ERJ-145,https://aerocorner.com/aircraft/embraer-erj-145/,Honeywell Primus 1000,2 × Rolls-Royce AE3007 A,Turbofan,No winglets,50.0,,,
+Embraer ERJ-170,https://aerocorner.com/aircraft/embraer-170/,Honeywell Primus Epic,2 × General Electric´s CF34-8E,Turbofan,Blended tips,78.0,,,
+Embraer ERJ-190,https://aerocorner.com/aircraft/embraer-190/,Honeywell Primus Epic EFIS,,-,No winglets,220.0,114.0,106.0,
+Saab 340,https://aerocorner.com/aircraft/saab-340/,Rockwell Collins APS-85 autopilot,2 × General Electric CT7-9B turboprops,Turboprop,No winglets,99.0,36.0,33.0,30.0
+Saab 2000,https://aerocorner.com/aircraft/saab-2000/,Rockwell Collins Pro Line 4,2 × Rolls-Royce Allison AE-2100A,Turboprop,No winglets,108.0,58.0,50.0,
+BAC Vickers VC-10,https://aerocorner.com/aircraft/vickers-vc10/,,4 × Rolls-Royce Conway Mk.301,Turbofan,No winglets,151.0,,,
+Hawker Siddeley HS-121 Trident,https://aerocorner.com/aircraft/hawker-siddeley-hs-121-trident/,,3 × Rolls-Royce RB.163-25 Spey 512,Turbofan,No winglets,295.0,180.0,115.0,
+Vickers Vanguard,https://aerocorner.com/aircraft/vickers-vanguard/,,4 × Rolls-Royce Tyne RTy.11 Mk 51,Turboprop,No winglets,139.0,,,
+Boeing 717,https://aerocorner.com/aircraft/mcdonnell-douglas-md-95-boeing-717/,"Honeywell VIA 2000 computers, BAE Systems FADEC",2 × Rolls Royce BR715-C1-30,Turbofan,No winglets,223.0,117.0,106.0,
+Short 330,https://aerocorner.com/aircraft/short-330/,"Full IFR Certified, Dual VHF Transceivers, Dual Mode S Transponders",2 × Pratt & Whitney Canada PT6A-45-R,Turboprop,No winglets,33.0,,,
+COMAC ARJ21,https://aerocorner.com/aircraft/comac-arj21-700/,"Pro Line 21 Integraded Avionics System, FMS 4200",2 × General Electric CF34-10A,Turbofan,Canted winglets,90.0,,,
+COMAC C919,https://aerocorner.com/aircraft/comac-c919/,"Rockwell Collins, Honeywell, CETC, GE AVIC,",2 × CFM International LEAP-1C,Turbofan,No winglets,168.0,,,
+Canadair CL-44,https://aerocorner.com/aircraft/canadair-cl-44/,,4 × Rolls-Royce Tyne 515/50,Turboprop,No winglets,189.0,,,
+Bristol 175 Britannia,https://aerocorner.com/aircraft/bristol-britannia/,,4 × Bristol Proteus 765,Turboprop,No winglets,146.0,,,
+Lockheed L-1011 TriStar,https://aerocorner.com/aircraft/lockheed-l-1011-tristar-100/,L-1011 Avionics Flight Control System,3 × Rolls-Royce RB211-22,Turbofan,No winglets,400.0,,,
+De Havilland Canada DHC-8 Dash 8,https://aerocorner.com/aircraft/bombardier-q400/,Rockwell Collins Pro Line Fusion,,-,No winglets,146.0,78.0,68.0,
+British Aerospace BAe 146 / Avro RJ,https://aerocorner.com/aircraft/british-aero-bae-146/,Avionics Rack Earth Stud,4 × Lycoming ALF 502R-5 / Avro RJ,Turbofan,No winglets,185.0,100.0,85.0,
+McDonnell Douglas DC-9,https://aerocorner.com/aircraft/mcdonnell-douglas-dc-9-30/,,2 × JT8D-11,Turbofan,No winglets,115.0,,,
+Bombardier BD-700 Global,https://aerocorner.com/aircraft/bombardier-global-express-xrs/,Honeywell Primus 2000 XP,2 × Rolls-Royce BR710A2-20,Turbofan,Blended tips,19.0,,,
+ATR 42 / 72,https://aerocorner.com/aircraft/atr-72-500/,,2 × Pratt & Whitney Canada PW127F,Turboprop,No winglets,74.0,,,
+British Aerospace BAe ATP,https://aerocorner.com/aircraft/british-aerospace-atp/,,2 × Pratt & Whitney Canada PW126,Turboprop,No winglets,66.0,,,
