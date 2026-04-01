@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+seleniumbase
+yfinance
+pandas
+numpy
+openpyxl
+sqlalchemy
+sqlalchemy.dialects.oracle
